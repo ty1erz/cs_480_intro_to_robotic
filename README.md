@@ -1,5 +1,7 @@
 # Object detection of self-driven rover
 
+Github Link: `https://github.com/ty1erz/cs_480_intro_to_robotic`
+
 ## Table of Contents
 - [Project Idea](#project-idea)
 - [Data](#data)
